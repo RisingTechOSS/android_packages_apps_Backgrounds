@@ -16,6 +16,11 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <array name="wallpapers" translatable="false">
+        <item>googlewp_one</item>
+        <item>googlewp_two</item>
+        <item>googlewp_three</item>
+        <item>googlewp_four</item>
+        <item>googlewp_five</item>
         <item>ascension_blaze</item>
         <item>ascension_ice</item>
         <item>ascension_mist</item>
