@@ -1,0 +1,198 @@
+<!--
+    Copyright (C) 2021 StatiXOS
+    Copyright (C) 2021 Sourajit Karmakar
+    Copyright (C) 2020-2022 Vaisakh Murali
+    Copyright (C) 2023 The Rise OS Project
+
+    SPDX-License-Identifer: Apache-2.0
+-->
+
+<resources>
+
+    <category id="Feathers" title="@string/feathers_title">
+	<static-wallpaper
+	    id="p10_snow_dark"
+	    src="@drawable/p10-snow-dark"
+	    subtitle1="@string/feathers_description"
+	    subtitle2="@string/feathers_attribution"
+	    title="@string/cockatoo_title" />
+	<static-wallpaper
+	    id="p10_snow_light"
+	    src="@drawable/p10-snow-light"
+	    subtitle1="@string/feathers_description"
+	    subtitle2="@string/feathers_attribution"
+	    title="@string/king_title" />
+	<static-wallpaper
+	    id="p10_obsidian_dark"
+	    src="@drawable/p10-obsidian-dark"
+	    subtitle1="@string/feathers_description"
+	    subtitle2="@string/feathers_attribution"
+	    title="@string/pied_title" />
+	<static-wallpaper
+	    id="p10_obsidian_light"
+	    src="@drawable/p10-obsidian-light"
+	    subtitle1="@string/feathers_description"
+	    subtitle2="@string/feathers_attribution"
+	    title="@string/pied_title" />
+	<static-wallpaper
+	    id="p10_lemongrass_dark"
+	    src="@drawable/p10-lemongrass-dark"
+	    subtitle1="@string/feathers_description"
+	    subtitle2="@string/feathers_attribution"
+	    title="@string/greenwinged_title" />
+	<static-wallpaper
+	    id="p10_lemongrass_light"
+	    src="@drawable/p10-lemongrass-light"
+	    subtitle1="@string/feathers_description"
+	    subtitle2="@string/feathers_attribution"
+	    title="@string/ringnecked_title" />
+	<static-wallpaper
+	    id="c10_snow_dark"
+	    src="@drawable/c10-snow-dark"
+	    subtitle1="@string/feathers_description"
+	    subtitle2="@string/feathers_attribution"
+	    title="@string/azure_title" />
+	<static-wallpaper
+	    id="c10_snow_light"
+	    src="@drawable/c10-snow-light"
+	    subtitle1="@string/feathers_description"
+	    subtitle2="@string/feathers_attribution"
+	    title="@string/azure_title" />
+	<static-wallpaper
+	    id="c10_obsidian_dark"
+	    src="@drawable/c10-obsidian-dark"
+	    subtitle1="@string/feathers_description"
+	    subtitle2="@string/feathers_attribution"
+	    title="@string/pied_title" />
+	<static-wallpaper
+	    id="c10_obsidian_light"
+	    src="@drawable/c10-obsidian-light"
+	    subtitle1="@string/feathers_description"
+	    subtitle2="@string/feathers_attribution"
+	    title="@string/pied_title" />
+	<static-wallpaper
+	    id="c10_haze_dark"
+	    src="@drawable/c10-haze-dark"
+	    subtitle1="@string/feathers_description"
+	    subtitle2="@string/feathers_attribution"
+	    title="@string/seagull_title" />
+	<static-wallpaper
+	    id="c10_haze_light"
+	    src="@drawable/c10-haze-light"
+	    subtitle1="@string/feathers_description"
+	    subtitle2="@string/feathers_attribution"
+	    title="@string/blackswan_title" />
+    </category>
+
+    <category id="Curated Culture" title="@string/curated_title">
+	<static-wallpaper
+	    id="googlewp_curated_one"
+	    src="@drawable/googlewp_curated_one"
+	    subtitle1="@string/daydream_description"
+	    title="@string/daydream_title" />
+	<static-wallpaper
+	    id="googlewp_curated_two"
+	    src="@drawable/googlewp_curated_two"
+	    subtitle1="@string/room_description"
+	    title="@string/room_title" />
+	<static-wallpaper
+	    id="googlewp_curated_three"
+	    src="@drawable/googlewp_curated_three"
+	    subtitle1="@string/peace_description"
+	    title="@string/peace_title" />
+    </category>
+
+    <category id="Bloom" title="@string/bloom_title">
+	<static-wallpaper
+	    id="hellebores"
+	    src="@drawable/hellebores"
+	    subtitle1="@string/bloom_description"
+	    subtitle2="@string/bloom_attribution"
+	    title="@string/hellebores_title" />
+	<static-wallpaper
+	    id="hellebores_light"
+	    src="@drawable/hellebores-light"
+	    subtitle1="@string/bloom_description"
+	    subtitle2="@string/bloom_attribution"
+	    title="@string/hellebores_title" />
+	<static-wallpaper
+	    id="persian"
+	    src="@drawable/persian"
+	    subtitle1="@string/bloom_description"
+	    subtitle2="@string/bloom_attribution"
+	    title="@string/persian_title" />
+	<static-wallpaper
+	    id="persian_light"
+	    src="@drawable/persian-light"
+	    subtitle1="@string/bloom_description"
+	    subtitle2="@string/bloom_attribution"
+	    title="@string/persian_title" />
+    </category>
+
+    <category id="Community Lens" title="@string/community_title">
+        <static-wallpaper
+            id="googlewp_community_one"
+            src="@drawable/googlewp_community_one"
+            subtitle1="@string/firefall_description"
+            title="@string/firefall_title" />
+    </category>
+
+    <category id="Nothing" title="@string/title1">
+	<static-wallpaper
+	    id="wallpaper1"
+	    src="@drawable/wallpaper1"
+	    subtitle1="@string/wallpaper1subtitle"
+	    title="@string/wallpaper1title" />
+        <static-wallpaper
+	    id="wallpaper2"
+	    src="@drawable/wallpaper2"
+	    subtitle1="@string/wallpaper2subtitle"
+	    title="@string/wallpaper2title" />
+        <static-wallpaper
+	    id="wallpaper3"
+	    src="@drawable/wallpaper3"
+	    subtitle1="@string/wallpaper3subtitle"
+	    title="@string/wallpaper3title" />
+        <static-wallpaper
+	    id="wallpaper4"
+	    src="@drawable/wallpaper4"
+	    subtitle1="@string/wallpaper4subtitle"
+	    title="@string/wallpaper4title" />
+        <static-wallpaper
+	    id="wallpaper5"
+	    src="@drawable/wallpaper5"
+	    subtitle1="@string/wallpaper5subtitle"
+	    title="@string/wallpaper5title" />
+        <static-wallpaper
+	    id="wallpaper6"
+	    src="@drawable/wallpaper6"
+	    subtitle1="@string/wallpaper6subtitle"
+	    title="@string/wallpaper6title" />
+        <static-wallpaper
+	    id="wallpaper7"
+	    src="@drawable/wallpaper7"
+	    subtitle1="@string/wallpaper7subtitle"
+	    title="@string/wallpaper7title" />
+	<static-wallpaper
+	    id="wallpaper8"
+	    src="@drawable/wallpaper8"
+	    subtitle1="@string/wallpaper8subtitle"
+	    title="@string/wallpaper8title" />
+	<static-wallpaper
+	    id="wallpaper9"
+	    src="@drawable/wallpaper9"
+            subtitle1="@string/wallpaper9subtitle"
+	    title="@string/wallpaper9title" />
+	<static-wallpaper
+	    id="wallpaper10"
+	    src="@drawable/wallpaper10"
+            subtitle1="@string/wallpaper10subtitle"
+	    title="@string/wallpaper10title" />
+    </category>
+
+    <category id="riceDroid Wallpapers" title="@string/rice_title">
+        <static-wallpaper
+	    id="nata_de_coco"
+            src="@drawable/nata_de_coco" />
+    </category>
+</resources>

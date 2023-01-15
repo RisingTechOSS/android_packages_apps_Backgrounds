@@ -1,0 +1,71 @@
+<!--
+    Copyright (C) 2021-2022 StatiXOS
+    Copyright (C) 2021 Sourajit Karmakar
+    Copyright (C) 2020-2022 Vaisakh Murali
+    Copyright (C) 2023 The Rise OS Project
+
+    SPDX-License-Identifer: Apache-2.0
+-->
+
+<resources>
+
+    <!-- Feathers - from Pixel 7 series -->
+    <string name="feathers_attribution">Photo by Andrew Zuckerman</string>	
+    <string name="feathers_description">A feathery display of color and detail</string>
+    <string name="feathers_title">Feathers</string>
+    <string name="azure_title">Azure Jay</string>
+    <string name="blackswan_title">Black swan</string>
+    <string name="cockatoo_title">Cockatoo</string>
+    <string name="greenwinged_title">Green-winged macaw</string>
+    <string name="king_title">King vulture</string>
+    <string name="pied_title">Pied crow</string>
+    <string name="ringnecked_title">Ring-necked parakeet</string>
+    <string name="seagull_title">Seagull</string>
+
+    <!-- Curated Culture -->
+    <string name="curated_title">Curated Culture</string>
+    <string name="daydream_title">A Daydream, Unmasked</string>
+    <string name="daydream_description">"The freedom to live unmasked". Illustrated by Morgan Harper Nichols.</string>
+    <string name="room_title">There is Room for Me Here</string>
+    <string name="room_description">"There is enough room in this world for me, exactly as I am". Illustrated by Morgan Harper Nichols.</string>
+    <string name="peace_title">At Peace</string>
+    <string name="peace_description">"Feeling grounded and centered in the moment". Illustrated by Morgan Harper Nichols.</string>
+
+    <!-- Bloom - from Pixel 6 series -->
+    <string name="bloom_attribution">Photo by Andrew Zuckerman</string>
+    <string name="bloom_description">Bloom one by one. Grow together.</string>
+    <string name="bloom_title">Bloom</string>
+    <string name="hellebores_title">Hellebores</string>
+    <string name="persian_title">Persian Lily</string>
+
+    <!-- Community Lens - from Google Wallpapers -->
+    <string name="community_title">Community Lens</string>	
+    <string name="firefall_description">Sunset lights a waterfall at Yosemite National Park in California. Photo by Jingyu Wu.</string>
+    <string name="firefall_title">Firefall</string>
+
+    <!-- Nothing - from NothingOS -->
+    <string name="title1">Nothing</string>
+    <string name="wallpaper1title">Flower (blue)</string>
+    <string name="wallpaper1subtitle">Blue flower, shot behind glass on a red background</string>
+    <string name="wallpaper2title">Flower (purple)</string>
+    <string name="wallpaper2subtitle">Purple flower, shot behind glass on a white background</string>
+    <string name="wallpaper3title">Abstract (multicolour)</string>
+    <string name="wallpaper3subtitle">Red dots, shot behind glass on a black and white background</string>
+    <string name="wallpaper4title">Dog (black)</string>
+    <string name="wallpaper4subtitle">Black dog, shot behind glass on a white background</string>
+    <string name="wallpaper5title"></string>
+    <string name="wallpaper5subtitle"></string>
+    <string name="wallpaper6title"></string>
+    <string name="wallpaper6subtitle"></string>
+    <string name="wallpaper7title"></string>
+    <string name="wallpaper7subtitle"></string>
+    <string name="wallpaper8title"></string>
+    <string name="wallpaper8subtitle"></string>
+    <string name="wallpaper9title"></string>
+    <string name="wallpaper9subtitle"></string>
+    <string name="wallpaper10title"></string>
+    <string name="wallpaper10subtitle"></string>
+
+    <!-- riceDroid Wallpapers -->
+    <string name="rice_title">riceDroid Wallpapers</string>
+</resources>
