@@ -53,18 +53,18 @@
     <string name="wallpaper3subtitle">Red dots, shot behind glass on a black and white background</string>
     <string name="wallpaper4title">Dog (black)</string>
     <string name="wallpaper4subtitle">Black dog, shot behind glass on a white background</string>
-    <string name="wallpaper5title"></string>
-    <string name="wallpaper5subtitle"></string>
-    <string name="wallpaper6title"></string>
-    <string name="wallpaper6subtitle"></string>
-    <string name="wallpaper7title"></string>
-    <string name="wallpaper7subtitle"></string>
-    <string name="wallpaper8title"></string>
-    <string name="wallpaper8subtitle"></string>
-    <string name="wallpaper9title"></string>
-    <string name="wallpaper9subtitle"></string>
-    <string name="wallpaper10title"></string>
-    <string name="wallpaper10subtitle"></string>
+    <string name="wallpaper5title">Nothing Dot Parallax (black)</string>
+    <string name="wallpaper5subtitle">Collection of wallpapers from nothingOS 1.5</string>
+    <string name="wallpaper6title">Nothing Dot Parallax (grey)</string>
+    <string name="wallpaper6subtitle">Collection of wallpapers from nothingOS 1.5</string>
+    <string name="wallpaper7title">Nothing Persona (black)</string>
+    <string name="wallpaper7subtitle">Collection of wallpapers from nothingOS 1.5</string>
+    <string name="wallpaper8title">Nothing Persona (white)</string>
+    <string name="wallpaper8subtitle">Collection of wallpapers from nothingOS 1.5</string>
+    <string name="wallpaper9title">Nothing Shapes (black)</string>
+    <string name="wallpaper9subtitle">Collection of wallpapers from nothingOS 1.5</string>
+    <string name="wallpaper10title">Nothing Shapes (white)</string>
+    <string name="wallpaper10subtitle">Collection of wallpapers from nothingOS 1.5</string>
 
     <!-- riceDroid Wallpapers -->
     <string name="rice_title">riceDroid Wallpapers</string>
