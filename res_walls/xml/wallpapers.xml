@@ -192,7 +192,22 @@
 
     <category id="riceDroid Wallpapers" title="@string/rice_title">
         <static-wallpaper
+	    id="macapuno"
+	    subtitle1="@string/macapuno_description"
+	    subtitle2="@string/macapuno_attribution"
+	    title="@string/macapuno_title"
+            src="@drawable/riseandbloom" />
+        <static-wallpaper
 	    id="nata_de_coco"
+	    subtitle1="@string/nata_de_coco_description"
+	    subtitle2="@string/nata_de_coco_attribution"
+	    title="@string/nata_de_coco_title"
             src="@drawable/nata_de_coco" />
+        <static-wallpaper
+	    id="obattu"
+	    subtitle1="@string/obattu_description"
+	    subtitle2="@string/obattu_attribution"
+	    title="@string/obattu_title"
+            src="@drawable/obattu" />
     </category>
 </resources>

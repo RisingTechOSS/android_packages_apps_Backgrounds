@@ -67,5 +67,14 @@
     <string name="wallpaper10subtitle">Collection of wallpapers from nothingOS 1.5</string>
 
     <!-- riceDroid Wallpapers -->
-    <string name="rice_title">riceDroid Wallpapers</string>
+    <string name="rice_title">Rising Beauty</string>
+    <string name="macapuno_title">Rise and Bloom</string>
+    <string name="macapuno_description">Default official wallpaper for Macapuno release.</string>
+    <string name="macapuno_attribution">Photo by Aedrian</string>
+    <string name="nata_de_coco_title">Delicate Flowers Of Yellow Trumpetbush Shrub</string>
+    <string name="nata_de_coco_description">Default official wallpaper for nata de coco release.</string>
+    <string name="nata_de_coco_attribution">Photo by Mwabonje</string>	
+    <string name="obattu_title">Close Up Of A Red Siamese Fighting Fish</string>
+    <string name="obattu_description">Default official wallpaper for obattu release.</string>
+    <string name="obattu_attribution">Photo by Chevanon Photography</string>	
 </resources>
