@@ -76,5 +76,8 @@
     <string name="nata_de_coco_attribution">Photo by Mwabonje</string>	
     <string name="obattu_title">Close Up Of A Red Siamese Fighting Fish</string>
     <string name="obattu_description">Default official wallpaper for obattu release.</string>
-    <string name="obattu_attribution">Photo by Chevanon Photography</string>	
+    <string name="obattu_attribution">Photo by Chevanon Photography</string>
+    <string name="paella_title">Blossoming Orange Flower On Meadow</string>
+    <string name="paella_description">Default official wallpaper for paella release.</string>
+    <string name="paella_attribution">Photo by Maddy Freddie</string>
 </resources>

@@ -209,5 +209,11 @@
 	    subtitle2="@string/obattu_attribution"
 	    title="@string/obattu_title"
             src="@drawable/obattu" />
+        <static-wallpaper
+	    id="paella"
+	    subtitle1="@string/paella_description"
+	    subtitle2="@string/paella_attribution"
+	    title="@string/paella_title"
+            src="@drawable/blossoming_orange_flower_on_meadow" />
     </category>
 </resources>
