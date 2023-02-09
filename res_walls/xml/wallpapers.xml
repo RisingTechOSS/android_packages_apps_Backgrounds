@@ -216,4 +216,19 @@
 	    title="@string/paella_title"
             src="@drawable/blossoming_orange_flower_on_meadow" />
     </category>
+    
+    <category id="Midjourney x notayan99" title="@string/midjourneyxayan_title">
+        <static-wallpaper
+	    id="paella1"
+	    subtitle1="@string/paella1_description"
+	    subtitle2="@string/paella1_attribution"
+	    title="@string/paella1_title"
+            src="@drawable/paella1" />
+        <static-wallpaper
+	    id="paella2"
+	    subtitle1="@string/paella2_description"
+	    subtitle2="@string/paella2_attribution"
+	    title="@string/paella2_title"
+            src="@drawable/paella2" />
+    </category>
 </resources>
