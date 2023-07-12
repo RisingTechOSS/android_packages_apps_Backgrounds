@@ -231,4 +231,31 @@
 	    title="@string/paella2_title"
             src="@drawable/paella2" />
     </category>
+    
+    <category id="Wallfever x Rising" title="@string/wallfever_collab_title">
+        <static-wallpaper
+	    id="wf_chocolate_creme"
+	    subtitle1="@string/wf_description"
+	    subtitle2="@string/wf_attribution"
+	    title="@string/wf_chocolate_creme_title"
+            src="@drawable/wf_chocolate_creme" />
+        <static-wallpaper
+	    id="wf_orange_oracle"
+	    subtitle1="@string/wf_description"
+	    subtitle2="@string/wf_attribution"
+	    title="@string/wf_orange_oracle_title"
+            src="@drawable/wf_orange_oracle" />
+        <static-wallpaper
+	    id="wf_pink_plush"
+	    subtitle1="@string/wf_description"
+	    subtitle2="@string/wf_attribution"
+	    title="@string/wf_pink_plush_title"
+            src="@drawable/wf_pink_plush" />
+        <static-wallpaper
+	    id="wf_yellow_yard"
+	    subtitle1="@string/wf_description"
+	    subtitle2="@string/wf_attribution"
+	    title="@string/wf_yellow_yard_title"
+            src="@drawable/wf_yellow_yard" />
+    </category>
 </resources>

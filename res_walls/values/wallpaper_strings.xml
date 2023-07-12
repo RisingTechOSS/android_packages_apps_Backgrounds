@@ -66,7 +66,7 @@
     <string name="wallpaper10title">Nothing Shapes (white)</string>
     <string name="wallpaper10subtitle">Collection of wallpapers from nothingOS 1.5</string>
 
-    <!-- riceDroid Wallpapers -->
+    <!-- risingOS Wallpapers -->
     <string name="rice_title">Rising Beauty</string>
     <string name="macapuno_title">Rise and Bloom</string>
     <string name="macapuno_description">Default official wallpaper for Macapuno release.</string>
@@ -89,4 +89,13 @@
     <string name="paella2_title">Rice and slice</string>
     <string name="paella2_description">Official wallpapers for paella release.</string>
     <string name="paella2_attribution">Photo by Midjourney and notayan99</string>
+    
+    <!-- Wallfever x risingOS -->
+    <string name="wallfever_collab_title">Wallfever collaboration</string>
+    <string name="wf_description">RisingOS Official wallpapers for version CASPIAN.</string>
+    <string name="wf_attribution">Created by AmaanCG</string>
+    <string name="wf_chocolate_creme_title">Chocolate Creme</string>
+    <string name="wf_orange_oracle_title">Orange Oracle</string>
+    <string name="wf_pink_plush_title">Pink Plush</string>
+    <string name="wf_yellow_yard_title">Yellow Yard</string>
 </resources>
