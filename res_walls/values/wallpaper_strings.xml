@@ -98,4 +98,31 @@
     <string name="wf_orange_oracle_title">Orange Oracle</string>
     <string name="wf_pink_plush_title">Pink Plush</string>
     <string name="wf_yellow_yard_title">Yellow Yard</string>
+    
+    <string name="nothing_2">Nothing 2.0</string>
+    <string name="nt_wallpaper_emyl_dark_subtitle">An atmospheric theme featuring dusky shades, inspired by twilight skies.</string>
+    <string name="nt_wallpaper_emyl_dark">Emyl Dark</string>
+    <string name="nt_wallpaper_emyl_light_subtitle">A light and airy theme with gentle pastel tones, reminiscent of dawn.</string>
+    <string name="nt_wallpaper_emyl_light">Emyl Light</string>
+    <string name="nt_wallpaper_argesi_dark_subtitle">A moody theme featuring deep, intense hues for a bold look.</string>
+    <string name="nt_wallpaper_argesi_dark">Argesi Dark</string>
+    <string name="nt_wallpaper_fottse_dark_subtitle">A contemporary dark theme with stylish, cutting-edge design elements.</string>
+    <string name="nt_wallpaper_fottse_dark">Fottse Dark</string>
+    <string name="nt_wallpaper_argesi_light_subtitle">A fresh, crisp theme with a vibrant and uplifting color palette.</string>
+    <string name="nt_wallpaper_argesi_light">Argesi Light</string>
+    <string name="nt_wallpaper_fottse_light_subtitle">A modern light theme with minimalist design and sophisticated details.</string>
+    <string name="nt_wallpaper_fottse_light">Fottse Light</string>
+    <string name="nt_wallpaper_octopus_dark_subtitle">A nautical theme featuring deep blues and charcoals, evoking the mysteries of the ocean.</string>
+    <string name="nt_wallpaper_octopus_dark">Octopus Dark</string>
+    <string name="nt_wallpaper_octopus_light_subtitle">A coastal theme with breezy light blues and whites, conjuring images of sandy beaches.</string>
+    <string name="nt_wallpaper_octopus_light">Octopus Light</string>
+    <string name="nt_wallpaper_hazy_flower_dark_subtitle">A romantic theme with dark florals and smoky backdrops, creating an air of intrigue.</string>
+    <string name="nt_wallpaper_hazy_flower_dark">Hazy Flower Dark</string>
+    <string name="nt_wallpaper_hazy_flower_light_subtitle">A delicate floral theme with soft, hazy backdrops and light blossoms.</string>
+    <string name="nt_wallpaper_hazy_flower_light">Hazy Flower Light</string>
+    <string name="nt_wallpaper_flower_green_glass_subtitle">A botanical theme with fresh greens and the look of translucent glass, suggesting a greenhouse haven.</string>
+    <string name="nt_wallpaper_flower_green_glass">Flower Green Glass</string>
+    <string name="nt_wallpaper_flower_orange_glass_subtitle">A vibrant floral theme with bold oranges, set against a glassy backdrop for a modern twist.</string>
+    <string name="nt_wallpaper_flower_orange_glass">Flower Orange Glass</string>
+
 </resources>
