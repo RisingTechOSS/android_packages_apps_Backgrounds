@@ -125,4 +125,9 @@
     <string name="nt_wallpaper_flower_orange_glass_subtitle">A vibrant floral theme with bold oranges, set against a glassy backdrop for a modern twist.</string>
     <string name="nt_wallpaper_flower_orange_glass">Flower Orange Glass</string>
 
+    <!-- Feathers - from Pixel Fold  -->
+    <string name="licorice_dark_description">An enigmatic theme imbued with deep tones of black licorice, set against a velvety texture for an edgy sophistication.</string>
+    <string name="licorice_dark">Licorice Dark</string>
+    <string name="porcelain_white_description">A serene theme filled with pristine shades of porcelain white, set against a silky canvas for a touch of timeless elegance.</string>
+    <string name="porcelain_white">Porcelain White</string>
 </resources>

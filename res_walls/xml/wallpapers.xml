@@ -80,6 +80,16 @@
 	    subtitle1="@string/feathers_description"
 	    subtitle2="@string/feathers_attribution"
 	    title="@string/blackswan_title" />
+		<static-wallpaper
+	    id="licorice_dark"
+	    src="@drawable/licorice_dark"
+	    subtitle1="@string/licorice_dark_description"
+	    title="@string/licorice_dark" />
+		<static-wallpaper
+	    id="porcelain_white"
+	    src="@drawable/porcelain_white"
+	    subtitle1="@string/porcelain_white_description"
+	    title="@string/porcelain_white" />
 	</category>
 	<category id="Curated Culture" title="@string/curated_title">
 		<static-wallpaper
