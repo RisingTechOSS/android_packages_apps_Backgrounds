@@ -343,4 +343,114 @@
 	        subtitle1="@string/yeongkeun_jeong_desc"
 	        title="@string/yeongkeun_jeong_symphony" />
 	</category>
+	<category id="Minerals" title="@string/minerals_title">
+		<static-wallpaper
+	        id="haze_dark"
+	        src="@drawable/haze_dark"
+	        title="@string/haze_dark" />
+		<static-wallpaper
+	        id="jade_dark"
+	        src="@drawable/jade_dark"
+	        title="@string/jade_dark" />
+		<static-wallpaper
+	        id="haze_light"
+	        src="@drawable/haze_light"
+	        title="@string/haze_light" />
+		<static-wallpaper
+	        id="jade_light"
+	        src="@drawable/jade_light"
+	        title="@string/jade_light" />
+		<static-wallpaper
+	        id="peony_dark"
+	        src="@drawable/peony_dark"
+	        title="@string/peony_dark" />
+		<static-wallpaper
+	        id="peony_light"
+	        src="@drawable/peony_light"
+	        title="@string/peony_light" />
+		<static-wallpaper
+	        id="barite_light"
+	        src="@drawable/barite_light"
+	        title="@string/barite_light" />
+		<static-wallpaper
+	        id="calcite_dark"
+	        src="@drawable/calcite_dark"
+	        title="@string/calcite_dark" />
+		<static-wallpaper
+	        id="ilvaite_dark"
+	        src="@drawable/ilvaite_dark"
+	        title="@string/ilvaite_dark" />
+		<static-wallpaper
+	        id="sky_dark"
+	        src="@drawable/sky_dark"
+	        title="@string/sky_dark" />
+		<static-wallpaper
+	        id="calcite_light"
+	        src="@drawable/calcite_light"
+	        title="@string/calcite_light" />
+		<static-wallpaper
+	        id="dioptase_dark"
+	        src="@drawable/dioptase_dark"
+	        title="@string/dioptase_dark" />
+		<static-wallpaper
+	        id="ilvaite_light"
+	        src="@drawable/ilvaite_light"
+	        title="@string/ilvaite_light" />
+		<static-wallpaper
+	        id="amethyst_licorice_dark"
+	        src="@drawable/amethyst_licorice_dark"
+	        title="@string/amethyst_licorice_dark" />
+		<static-wallpaper
+	        id="emerald_jade_dark"
+	        src="@drawable/emerald_jade_dark"
+	        title="@string/emerald_jade_dark" />
+		<static-wallpaper
+	        id="sky_light"
+	        src="@drawable/sky_light"
+	        title="@string/sky_light" />
+		<static-wallpaper
+	        id="danburite_dark"
+	        src="@drawable/danburite_dark"
+	        title="@string/danburite_dark" />
+		<static-wallpaper
+	        id="dioptase_light"
+	        src="@drawable/dioptase_light"
+	        title="@string/dioptase_light" />
+		<static-wallpaper
+	        id="amethyst_licorice_light"
+	        src="@drawable/amethyst_licorice_light"
+	        title="@string/amethyst_licorice_light" />
+		<static-wallpaper
+	        id="emerald_jade_light"
+	        src="@drawable/emerald_jade_light"
+	        title="@string/emerald_jade_light" />
+		<static-wallpaper
+	        id="danburite_light"
+	        src="@drawable/danburite_light"
+	        title="@string/danburite_light" />
+		<static-wallpaper
+	        id="sphalerite_dark"
+	        src="@drawable/sphalerite_dark"
+	        title="@string/sphalerite_dark" />
+		<static-wallpaper
+	        id="sphalerite_light"
+	        src="@drawable/sphalerite_light"
+	        title="@string/sphalerite_light" />
+		<static-wallpaper
+	        id="black_licorice_dark"
+	        src="@drawable/black_licorice_dark"
+	        title="@string/black_licorice_dark" />
+		<static-wallpaper
+	        id="black_licorice_light"
+	        src="@drawable/black_licorice_light"
+	        title="@string/black_licorice_light" />
+		<static-wallpaper
+	        id="porcelain_dark"
+	        src="@drawable/porcelain_dark"
+	        title="@string/porcelain_dark" />
+		<static-wallpaper
+	        id="porcelain_light"
+	        src="@drawable/porcelain_light"
+	        title="@string/porcelain_light" />
+	</category>
 </resources>

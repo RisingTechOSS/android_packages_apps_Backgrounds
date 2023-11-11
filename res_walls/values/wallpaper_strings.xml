@@ -143,4 +143,35 @@ Outside of work, Rachael is a mum to three young children and an avid photograph
     <string name="jess_ng_blue_desc">As a CMF design manager for Pixel phones and accessories, Jess\'s favourite part of the design process is thinking through different scenarios and reconsidering pieces of the puzzle until everything comes together in harmony. Outside of work, Jess finds every chance to be out in the wild, especially near water. Which explains why Bay was inspired by the reflection of the sky on a cloudless day, restoring a sense of hope and optimism.</string>
     <string name="yeongkeun_jeong_symphony">Symphony of 30</string>
     <string name="yeongkeun_jeong_desc">Yeongkeun, an industrial designer by day and a ceramist by night, enchants the world with his ceramic works. His journey begins with playful test tiles, their unglazed surfaces revealing the raw tactility of clay. Experimenting with blends of raw materials and stains, he found inspiration in the Pixel 8 series\'s color scheme, creating a symphony of 30 test tiles, each a unique expression of his artistry.</string>
+
+    <!-- Minerals - from Pixel 8/Fold/Tablet series -->
+    <string name="minerals_title">Minerals</string>	
+    <string name="haze_dark">Dark Haze</string>	
+    <string name="jade_dark">Dark Jade</string>
+    <string name="haze_light">Light Haze</string>
+    <string name="jade_light">Light Jade</string>
+    <string name="peony_dark">Dark Peony</string>
+    <string name="barite_dark">Dark Barite</string>
+    <string name="peony_light">Light Peony</string>
+    <string name="barite_light">Light Barite</string>
+    <string name="calcite_dark">Dark Calcite</string>
+    <string name="ilvaite_dark">Dark Ilvaite</string>
+    <string name="sky_dark">Dark Sky</string>
+    <string name="calcite_light">Light Calcite</string>
+    <string name="dioptase_dark">Dark Dioptase</string>
+    <string name="ilvaite_light">Light Ilvaite</string>
+    <string name="amethyst_licorice_dark">Dark Amethyst Licorice</string>
+    <string name="emerald_jade_dark">Dark Emerald Jade</string>
+    <string name="sky_light">Light Sky</string>
+    <string name="danburite_dark">Dark Danburite</string>
+    <string name="dioptase_light">Light Dioptase</string>
+    <string name="amethyst_licorice_light">Light Amethyst Licorice</string>
+    <string name="emerald_jade_light">Light Emerald Jade</string>
+    <string name="danburite_light">Light Danburite</string>
+    <string name="sphalerite_dark">Dark Sphalerite</string>
+    <string name="sphalerite_light">Light Sphalerite</string>
+    <string name="black_licorice_dark">Dark Black Licorice</string>
+    <string name="black_licorice_light">Light Black Licorice</string>
+    <string name="porcelain_dark">Dark Porcelain</string>
+    <string name="porcelain_light">Light Porcelain</string>
 </resources>
