@@ -1,5 +1,6 @@
 <!--
   Copyright (C) 2020 The LineageOS Project
+  Copyright (C) 2023 The risingOS Android Project
 
   Licensed under the Apache License, Version 2.0 (the "License");
   you may not use this file except in compliance with the License.
@@ -15,7 +16,7 @@
   -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="org.lineageos.backgrounds">
+    package="org.risingos.backgrounds">
 
     <application android:label="@string/app_name">
         <receiver android:name=".StubReceiver"
