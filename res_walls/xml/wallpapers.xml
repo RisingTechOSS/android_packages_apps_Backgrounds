@@ -321,4 +321,26 @@
             subtitle1="@string/nt_wallpaper_flower_orange_glass_subtitle"
 	    title="@string/nt_wallpaper_flower_orange_glass" />
 	</category>
+	<category id="Pixel Superfans" title="@string/pixel_super_title">
+		<static-wallpaper
+	        id="linda_jiang"
+	        src="@drawable/px_sf_linda_jiang"
+	        subtitle1="@string/linda_jiang_desc"
+	        title="@string/linda_jiang_rose" />
+		<static-wallpaper
+	        id="rachael_roberts"
+	        src="@drawable/px_sf_rachael_roberts"
+	        subtitle1="@string/rachael_roberts_desc"
+	        title="@string/rachael_roberts_green_carpet" />
+		<static-wallpaper
+	        id="jess_ng"
+	        src="@drawable/px_sf_jess_ng"
+	        subtitle1="@string/jess_ng_blue_desc"
+	        title="@string/jess_ng_blue" />
+		<static-wallpaper
+	        id="yeongkeun_jeong"
+	        src="@drawable/px_sf_yeongkeun_jeong"
+	        subtitle1="@string/yeongkeun_jeong_desc"
+	        title="@string/yeongkeun_jeong_symphony" />
+	</category>
 </resources>

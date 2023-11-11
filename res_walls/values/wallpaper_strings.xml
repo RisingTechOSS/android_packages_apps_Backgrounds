@@ -130,4 +130,17 @@
     <string name="licorice_dark">Licorice Dark</string>
     <string name="porcelain_white_description">A serene theme filled with pristine shades of porcelain white, set against a silky canvas for a touch of timeless elegance.</string>
     <string name="porcelain_white">Porcelain White</string>
+    
+     <!-- Pixel Super fans  -->
+    <string name="pixel_super_title">Pixel Superfans Edition</string>
+    <string name="linda_jiang_rose">Floral Painting</string>
+    <string name="linda_jiang_desc">Created by Linda Jiang, an industrial design manager on the Pixel team, created this wallpaper by combining the Rose colour\'s floral inspiration with her hobby of plein-air painting. For Linda, design is a passion that stemmed from her love for traditional and contemporary fine art, and she finds it exciting to blend the two worlds together in this unique way. As the lead industrial designer on Pixel 8 and Pixel 8 Pro, Linda loved being part of the incredible journey it took to bring these products to life. Her favourite part of the design process is when she gets to hold the first working prototype, while reminiscing back to the initial concept sketch.</string>
+    <string name="rachael_roberts_green_carpet">Green Carpet</string>
+    <string name="rachael_roberts_desc">Rachael has been part of the Pixel team since day one. As a product design architect, she is responsible for crafting every visible surface on the phone, working with designers and engineers to balance aesthetics and engineering. On Pixel 8 Pro, Rachael refined the surfaces and details through hundreds of iterations and prototypes, developing a beautiful phone that could be manufactured at scale.
+
+Outside of work, Rachael is a mum to three young children and an avid photographer. She loves to capture the unseen of everyday life, looking into reflections and seeing the beauty in the abstract. Rachael used her Pixel 7 Pro to capture this wallpaper close to her home in England – summer sun streams through ancient trees onto a delicate green carpet floating on the water. </string>
+    <string name="jess_ng_blue">Reflection of the Sky on a Cloudless Day</string>
+    <string name="jess_ng_blue_desc">As a CMF design manager for Pixel phones and accessories, Jess\'s favourite part of the design process is thinking through different scenarios and reconsidering pieces of the puzzle until everything comes together in harmony. Outside of work, Jess finds every chance to be out in the wild, especially near water. Which explains why Bay was inspired by the reflection of the sky on a cloudless day, restoring a sense of hope and optimism.</string>
+    <string name="yeongkeun_jeong_symphony">Symphony of 30</string>
+    <string name="yeongkeun_jeong_desc">Yeongkeun, an industrial designer by day and a ceramist by night, enchants the world with his ceramic works. His journey begins with playful test tiles, their unglazed surfaces revealing the raw tactility of clay. Experimenting with blends of raw materials and stains, he found inspiration in the Pixel 8 series\'s color scheme, creating a symphony of 30 test tiles, each a unique expression of his artistry.</string>
 </resources>
