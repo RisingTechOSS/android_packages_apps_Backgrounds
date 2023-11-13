@@ -453,4 +453,30 @@
 	        src="@drawable/porcelain_light"
 	        title="@string/porcelain_light" />
 	</category>
+	<category id="Rising Two" title="@string/risingtwo_title">
+		<static-wallpaper
+	        id="risingtwo_v1"
+	        src="@drawable/risingtwo_v1"
+	        title="@string/risingtwo_v1" />
+		<static-wallpaper
+	        id="risingtwo_v2"
+	        src="@drawable/risingtwo_v2"
+	        title="@string/risingtwo_v2" />
+		<static-wallpaper
+	        id="risingtwo_v3"
+	        src="@drawable/risingtwo_v3"
+	        title="@string/risingtwo_v3" />
+		<static-wallpaper
+	        id="risingtwo_v4"
+	        src="@drawable/risingtwo_v4"
+	        title="@string/risingtwo_v4" />
+		<static-wallpaper
+	        id="risingtwo_v5"
+	        src="@drawable/risingtwo_v5"
+	        title="@string/risingtwo_v5" />
+		<static-wallpaper
+	        id="risingtwo_v6"
+	        src="@drawable/risingtwo_v6"
+	        title="@string/risingtwo_v6" />
+	</category>
 </resources>

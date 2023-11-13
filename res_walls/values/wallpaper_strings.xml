@@ -174,4 +174,13 @@ Outside of work, Rachael is a mum to three young children and an avid photograph
     <string name="black_licorice_light">Light Black Licorice</string>
     <string name="porcelain_dark">Dark Porcelain</string>
     <string name="porcelain_light">Light Porcelain</string>
+
+    <!-- RisingOS 2.0 -->
+    <string name="risingtwo_title">RisingOS 2.0</string>
+    <string name="risingtwo_v1">Rising Two v1</string>
+    <string name="risingtwo_v2">Rising Two v2</string>
+    <string name="risingtwo_v3">Rising Two v3</string>
+    <string name="risingtwo_v4">Rising Two v4</string>
+    <string name="risingtwo_v5">Rising Two v5</string>
+    <string name="risingtwo_v6">Rising Two v6</string>
 </resources>
