@@ -479,4 +479,46 @@
 	        src="@drawable/risingtwo_v6"
 	        title="@string/risingtwo_v6" />
 	</category>
+	<category id="Pixel 8 Minerals" title="@string/pixel8a_minerals_title">
+		<static-wallpaper
+	        id="titanite_d"
+	        src="@drawable/p8-emerald-dark"
+	        title="@string/p8-emerald-dark"
+	        subtitle1="@string/p8_collection_desc" />
+		<static-wallpaper
+	        id="titanite_l"
+	        src="@drawable/p8-emerald-light"
+	        title="@string/p8-emerald-light"
+	        subtitle1="@string/p8_collection_desc" />
+		<static-wallpaper
+	        id="hematite_d"
+	        src="@drawable/p8-licorice-dark"
+	        title="@string/p8-licorice-dark"
+	        subtitle1="@string/p8_collection_desc" />
+		<static-wallpaper
+	        id="hematite_l"
+	        src="@drawable/p8-licorice-light"
+	        title="@string/p8-licorice-light"
+	        subtitle1="@string/p8_collection_desc" />
+		<static-wallpaper
+	        id="barite_d"
+	        src="@drawable/p8-sky-dark"
+	        title="@string/p8-sky-dark"
+	        subtitle1="@string/p8_collection_desc" />
+		<static-wallpaper
+	        id="barite_l"
+	        src="@drawable/p8-sky-light"
+	        title="@string/p8-sky-light"
+	        subtitle1="@string/p8_collection_desc" />
+		<static-wallpaper
+	        id="porcelain_d"
+	        src="@drawable/p8-porcelain-dark"
+	        title="@string/p8-porcelain-dark"
+	        subtitle1="@string/p8_collection_desc" />
+		<static-wallpaper
+	        id="porcelain_l"
+	        src="@drawable/p8-porcelain-light"
+	        title="@string/p8-porcelain-light"
+	        subtitle1="@string/p8_collection_desc" />
+	</category>
 </resources>

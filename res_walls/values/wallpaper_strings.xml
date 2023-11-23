@@ -183,4 +183,15 @@ Outside of work, Rachael is a mum to three young children and an avid photograph
     <string name="risingtwo_v4">Rising Two v4</string>
     <string name="risingtwo_v5">Rising Two v5</string>
     <string name="risingtwo_v6">Rising Two v6</string>
+    
+    <string name="pixel8a_minerals_title">Pixel 8a - Minerals</string>
+    <string name="p8-emerald-dark">Dark Emerald Titanite</string>
+    <string name="p8-emerald-light">Light Emerald Titanite</string>
+    <string name="p8-licorice-light">Light Emerald Hematite</string>
+    <string name="p8-licorice-dark">Light Emerald Hematite</string>
+    <string name="p8-sky-light">Light Emerald Barite</string>
+    <string name="p8-sky-dark">Light Emerald Barite</string>
+    <string name="p8-porcelain-light">Light Emerald Porcelain</string>
+    <string name="p8-porcelain-dark">Light Emerald Porcelain</string>
+    <string name="p8_collection_desc">by Andrew Zuckerman</string>
 </resources>
