@@ -194,4 +194,16 @@ Outside of work, Rachael is a mum to three young children and an avid photograph
     <string name="p8-porcelain-light">Light Emerald Porcelain</string>
     <string name="p8-porcelain-dark">Light Emerald Porcelain</string>
     <string name="p8_collection_desc">by Andrew Zuckerman</string>
+    
+    <!-- RisingOS 2.0 Official -->
+    <string name="heraclea">Heraclea</string>
+    <string name="dark_rising">Dark Rising</string>
+    <string name="dark_rising_desc">A blend of darkness, materialism and rising...</string>
+    <string name="heraclea_rising_attribution">Created by Not Ayan and Qirkly</string>
+    <string name="rise_and_light">Rise and Light</string>
+    <string name="rise_and_light_desc">The light which one brings when rising</string>
+    <string name="pitch_black_remix">Resurrection?</string>
+    <string name="pitch_black_remix_desc">Feeling old yet?</string>
+    <string name="purple_remix">Purple Remix</string>
+    <string name="purple_remix_desc">Purpleeeee</string>
 </resources>

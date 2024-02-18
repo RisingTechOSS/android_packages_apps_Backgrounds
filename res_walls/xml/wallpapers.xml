@@ -2,7 +2,7 @@
     Copyright (C) 2021 StatiXOS
     Copyright (C) 2021 Sourajit Karmakar
     Copyright (C) 2020-2022 Vaisakh Murali
-    Copyright (C) 2023 The risingOS Android Project
+    Copyright (C) 2023-2024 The risingOS Android Project
 
     SPDX-License-Identifer: Apache-2.0
 -->
@@ -520,5 +520,31 @@
 	        src="@drawable/p8-porcelain-light"
 	        title="@string/p8-porcelain-light"
 	        subtitle1="@string/p8_collection_desc" />
+	</category>
+	<category id="Heraclea" title="@string/heraclea">
+		<static-wallpaper
+            id="dark_rising"
+            src="@drawable/dark_rising"
+            subtitle1="@string/dark_rising_desc"
+            subtitle2="@string/heraclea_rising_attribution"
+            title="@string/dark_rising" />
+		<static-wallpaper
+            id="rise_and_light"
+            src="@drawable/rise_and_light"
+            subtitle1="@string/rise_and_light_desc"
+            subtitle2="@string/heraclea_rising_attribution"
+            title="@string/rise_and_light" />
+		<static-wallpaper
+            id="pitch_black_remix"
+            src="@drawable/pitch_black_remix"
+            subtitle1="@string/pitch_black_remix_desc"
+            subtitle2="@string/heraclea_rising_attribution"
+            title="@string/pitch_black_remix" />
+		<static-wallpaper
+            id="purple_remix"
+            src="@drawable/purple_remix"
+            subtitle1="@string/purple_remix_desc"
+            subtitle2="@string/heraclea_rising_attribution"
+            title="@string/purple_remix" />
 	</category>
 </resources>
